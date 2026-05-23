@@ -222,7 +222,7 @@
         
         btn.innerHTML = '';
         if (type === 'close') {
-             btn.style.cssText = 'background: transparent !important; border: none !important; padding: 0 !important; width: 20px !important; height: 28px !important; display: flex !important; align-items: center !important; justify-content: center !important; cursor: pointer !important; outline: none !important; box-shadow: none !important; margin-right: 14px !important;';
+             btn.style.cssText = 'background: transparent !important; border: none !important; padding: 0 !important; width: 20px !important; height: 28px !important; display: flex !important; align-items: center !important; justify-content: center !important; cursor: pointer !important; outline: none !important; box-shadow: none !important; margin-right: 8px !important;';
          } else {
              btn.style.cssText = 'background: transparent !important; border: none !important; padding: 0 !important; width: 20px !important; height: 28px !important; display: flex !important; align-items: center !important; justify-content: center !important; cursor: pointer !important; outline: none !important; box-shadow: none !important;';
          }
